@@ -31,8 +31,8 @@ Suivez les étapes ci-dessous pour installer et configurer l'application :
 1. **Cloner le Dépôt** :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/chat-neov.git
-   cd chat-neov
+   git clone https://github.com/hachim001/LLM-neov.git
+   cd LLM-neov
    ```
 
 2. **Créer un Environnement Virtuel** (recommandé) :
