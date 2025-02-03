@@ -48,16 +48,9 @@ Suivez les étapes ci-dessous pour installer et configurer l'application :
    pip install -r requirements.txt
    ```
 
-4. **Configurer les Variables d'Environnement** :
 
-   Créez un fichier `.env` à la racine du projet et ajoutez vos clés API :
 
-   ```
-   HUGGINGFACE_API_TOKEN='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'
-   GROQ_API_TOKEN='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'
-   ```
-
-5. **Lancer l'Application** :
+4. **Lancer l'Application** :
 
    ```bash
    streamlit run neovLLM.py
@@ -80,7 +73,7 @@ Suivez les étapes ci-dessous pour installer et configurer l'application :
 Le projet est structuré de la manière suivante :
 
 ```
-Projet LLM/
+LLM NEOV/
 ├── neovLLM.py
 ├── requirements.txt
 ├── .env
@@ -88,7 +81,7 @@ Projet LLM/
 └── README.md
 ```
 
-- **app.py** : Script principal de l'application, gérant l'interface utilisateur, le téléchargement des fichiers et l'interaction avec le chatbot.
+- **neovLLM.py** : Script principal de l'application, gérant l'interface utilisateur, le téléchargement des fichiers et l'interaction avec le chatbot.
 - **requirements.txt** : Liste des dépendances Python nécessaires à l'exécution de l'application.
 - **.env** : Fichier contenant les variables d'environnement, telles que les clés API pour HuggingFace et Groq.
 - **chroma_db/** : Répertoire où sont stockées les bases de données vectorielles créées lors de l'exécution.
