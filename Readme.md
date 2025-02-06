@@ -5,13 +5,10 @@ Chat Neov est une application interactive développée avec Streamlit, permettan
 ## Table des Matières
 
 - [Fonctionnalités](#fonctionnalités)
-- [Prérequis](#prérequis)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Architecture du Projet](#architecture-du-projet)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
-- [Remerciements](#remerciements)
+- 
 
 ## Fonctionnalités
 
