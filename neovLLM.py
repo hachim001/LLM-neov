@@ -9,7 +9,7 @@ from langchain.vectorstores import Chroma
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
 
-# Définition des clés API directement dans le script
+#clés API
 groq_api_token = "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"
 huggingface_api_token = "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"
 
