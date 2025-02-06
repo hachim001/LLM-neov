@@ -1,7 +1,3 @@
-Bien entendu, voici un exemple de fichier README complet et professionnel pour votre projet **Chat Neov** :
-
----
-
 # Chat Neov
 
 Chat Neov est une application interactive développée avec Streamlit, permettant aux utilisateurs de télécharger des fichiers PDF ou TXT et d'interagir avec leur contenu via un chatbot intuitif.
@@ -87,16 +83,7 @@ LLM NEOV/
 - **chroma_db/** : Répertoire où sont stockées les bases de données vectorielles créées lors de l'exécution.
 - **README.md** : Ce fichier, fournissant une vue d'ensemble du projet.
 
-## Contribuer
 
-Les contributions sont les bienvenues ! Si vous souhaitez proposer des améliorations ou signaler des problèmes, veuillez soumettre une "issue" ou une "pull request" sur le dépôt GitHub du projet.
 
-## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
-## Remerciements
-
-Merci aux développeurs de [Streamlit](https://streamlit.io/) pour cette incroyable bibliothèque facilitant la création d'applications web interactives en Python.
-
----
